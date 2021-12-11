@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Chess\Chess\main.cpp(1,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  temp_file.cpp
+  Создание кода...
